@@ -58,6 +58,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)" height="40" alt="sklearn logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
 
