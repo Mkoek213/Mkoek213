@@ -3,6 +3,8 @@
 
 
 ## 🌐 Socials:
+<a href="https://cz4rny213.github.io/">
+  <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=internetexplorer&logoColor=%230076D6" height="25" alt="HackerRank">
 <a href="https://www.hackerrank.com/profile/mikolaj_kolek2">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="25" alt="HackerRank">
 </a>
