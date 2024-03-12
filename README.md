@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm looking to collaborate on some machine learning projects<br>🤝 I'm looking for help to better understand how neural networks work <br>📚 I'm currently studying computer science and intelligent systems at <br>the Stanislaw Staszic University of Science and Technology in Krakow<br>⚡ In my free time I train calisthenics
+🔭 I'm looking to collaborate on some machine learning projects<br>📚 I'm currently studying computer science and intelligent systems at <br>the Stanislaw Staszic University of Science and Technology in Krakow<br>⚡ In my free time I train calisthenics
 
 
 
